@@ -135,7 +135,7 @@ local function formatMoney(num)
 end
 
 local autoJoinGui = Instance.new('ScreenGui')
-autoJoinGui.Name = 'Eps1llonHub_AutoJoiner'
+autoJoinGui.Name = 'StarHub_AutoJoiner'
 autoJoinGui.ResetOnSpawn = false
 autoJoinGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 autoJoinGui.Parent = localPlayer:WaitForChild('PlayerGui')
